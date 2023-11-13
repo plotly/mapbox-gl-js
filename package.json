@@ -1,13 +1,13 @@
 {
-  "name": "mapbox-gl",
+  "name": "@plotly/mapbox-gl",
   "description": "A WebGL interactive maps library",
-  "version": "1.13.3",
-  "main": "dist/mapbox-gl.js",
+  "version": "1.13.4",
+  "main": "dist/mapbox-gl-unminified.js",
   "style": "dist/mapbox-gl.css",
   "license": "SEE LICENSE IN LICENSE.txt",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mapbox/mapbox-gl-js.git"
+    "url": "git://github.com/plotly/mapbox-gl-js.git"
   },
   "engines": {
     "node": ">=6.4.0"

@@ -1,3 +1,9 @@
+## 1.13.4
+
+### 🐞 Bug fixes
+
+* Ensure loseContext function exists before try calling it
+
 ## 1.13.3
 
 ### 🐞 Bug fixes
