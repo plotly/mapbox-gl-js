@@ -2600,7 +2600,7 @@ class Map extends Camera {
         }
 
         const extension = this.painter.context.gl.getExtension('WEBGL_lose_context');
-        if (extension) extension.loseContext();
+        if (extension && extension.loseContext) extension.loseContext();
         removeNode(this._canvasContainer);
         removeNode(this._controlContainer);
         removeNode(this._missingCSSCanary);
