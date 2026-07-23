@@ -1,6 +1,6 @@
 [<img width="400" alt="Mapbox" src="https://raw.githubusercontent.com/mapbox/mapbox-gl-js-docs/publisher-production/docs/pages/assets/logo.png">](https://www.mapbox.com/)
 
-> **This project is deprecated as of July 2026 due to its removal from the plotly.js library in v4. plotly.js now uses [MapLibre](https://github.com/maplibre/maplibre-gl-js) for map traces.**
+> **This project is deprecated as of August 2026 due to its removal from the plotly.js library in v4. plotly.js now uses [MapLibre](https://github.com/maplibre/maplibre-gl-js) for map traces.**
 
 <div align="center">
   <a href="https://dash.plotly.com/project-maintenance">
